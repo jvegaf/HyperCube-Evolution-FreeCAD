@@ -2,9 +2,9 @@
 
 This a Freecad version of the HyperCube Evolution, a 3D Printer created by **Scott Alford**.
 
-You can find the original version of the printer [here] (https://www.thingiverse.com/thing:2254103)
+You can find the original version of the printer [here](https://www.thingiverse.com/thing:2254103)
 
-Also have a facebook group member [here] (https://www.facebook.com/groups/Hypercubeevolution/)
+Also have a facebook group member [here](https://www.facebook.com/groups/Hypercubeevolution/)
 
 # NOTE:
 
